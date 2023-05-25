@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [The Hash Source](https://thehashsource.com/)
 
-- 🌱 I’m currently learning **Flutter and ML**
+- 🌱 I’m currently working with **Computer Vision** 
 
-- 💬 Ask me about **python, cybersecurity, javascript and music**
+- 💬 Ask me about **Computer Vision, cybersecurity, javascript and music**
 
 - 📫 How to reach me **https://www.linkedin.com/in/javier-jo-4181a0190/**
 
