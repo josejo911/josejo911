@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Javier Jo</h1>
 <h3 align="center">I'm a software engineer with guilty tastes in data science and web development.</h3>
 
-- 🔭 I’m currently working on [The Hash Source](https://thehashsource.com/)
-
+- 🔭 I’m currently working on a Computer Vision service for guatemalan company
+  
 - 🌱 I’m currently working with **Computer Vision** 
 
 - 💬 Ask me about **Computer Vision, cybersecurity, javascript and music**
